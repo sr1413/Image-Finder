@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "475634928168",
+    "project_id": "image-finder-d1d2f",
+    "storage_bucket": "image-finder-d1d2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475634928168:android:b5ff78cbafc74c9303831d",
+        "android_client_info": {
+          "package_name": "curtin.edu.my.imagefinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRtpJRqsidb4qJ8xJVy87G4bl9rRA7Fl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

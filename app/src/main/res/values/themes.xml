@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Custom application theme with black background and white text/button edges. -->
+    <style name="Theme.ImageFInder" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Set the background color to black. -->
+        <item name="android:windowBackground">@color/white</item>
+
+        <!-- Set the text color to white. -->
+        <item name="android:textColor">@color/black</item>
+
+        <!-- Button edges: You can define your button style here. -->
+        <!-- For example, if you want white button edges, you can set it like this: -->
+        <item name="buttonStyle">@style/WhiteButton</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <!-- Define your custom button style with white edges. -->
+    <style name="WhiteButton">
+        <item name="android:background">@drawable/rounded_button</item>
+    </style>
+</resources>
